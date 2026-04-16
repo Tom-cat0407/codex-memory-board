@@ -26,5 +26,6 @@ Use this path if you want to debug behavior, extend commands, or verify that the
 
 ## Document Map
 
+- [Chinese User Manual (DOCX)](./Codex-Memory-Board-User-Manual-ZH.docx): detailed Chinese Word manual with Chinese diagrams
 - [Project Guide](./PROJECT_GUIDE.md): full onboarding guide, file contracts, architecture explanation, and debugging advice
 - [Architecture Diagrams](./ARCHITECTURE_DIAGRAMS.md): Mermaid diagrams for command flow, layering, validation, and adoption
