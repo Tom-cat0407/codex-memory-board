@@ -48,9 +48,8 @@ The current implemented scope includes:
 ## Development environment requirements
 
 - Target Python version: `3.11+`
-- System default Python observed during initial setup: `3.9.13`
-- Project-local virtual environment used for validation: `.venv` with Python `3.11.15`
-- The exact observed versions above are informational and may differ on another machine
+- Recommended validation environment: a project-local Python `3.11+` virtual environment
+- The exact Python interpreter used on each machine may differ
 - Future feature development should be validated first in the project `.venv` or another Python `3.11+` environment
 - The project requirement remains `>=3.11` in `pyproject.toml`
 

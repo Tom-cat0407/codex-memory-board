@@ -157,7 +157,7 @@ cmb init
 或者对另一个项目目录初始化：
 
 ```powershell
-cmb init --path C:\path\to\your-project
+cmb init --path path/to/your-project
 ```
 
 ### 6.5 核心日常工作流
@@ -974,7 +974,7 @@ my-project/
 ### 第一步：在你的项目根目录初始化记忆文件
 
 ```powershell
-cmb init --path C:\path\to\my-project
+cmb init --path path/to/my-project
 ```
 
 ### 第二步：按你的项目语义填写五个文件
